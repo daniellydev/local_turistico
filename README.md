@@ -10,10 +10,8 @@ Acesse o projeto online:
 
 ##  Preview
 
-
-```md
 ![Preview do Projeto](./assets/preview.png)
-```
+
 
 ##  Tecnologias Utilizadas
 
