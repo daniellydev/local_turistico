@@ -10,7 +10,6 @@ Acesse o projeto online:
 
 ##  Preview
 
-Adicione aqui uma captura de tela do projeto:
 
 ```md
 ![Preview do Projeto](./assets/preview.png)
